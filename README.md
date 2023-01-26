@@ -3,6 +3,8 @@ Programa gratuito de formação e inclusão de talentos em tecnologia do Grupo B
 
 # JOGO PONG
 
+![78ub4e](https://user-images.githubusercontent.com/104013116/214841066-01a93360-317a-48a8-bda7-a7ca172c76ac.gif)
+
 ## Objetivo
 
 O objetivo do jogo é acertar a bolinha com a raquete e fazer mais pontos que o oponente.
